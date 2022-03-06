@@ -23,7 +23,7 @@ public class FizzBuzz : MonoBehaviour
             {
                 Debug.Log("Buzz");
             }
-            else if (i % 3 != 0 && i % 5 != 0)
+            else
             {
                 Debug.Log(i);
             }
